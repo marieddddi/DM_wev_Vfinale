@@ -1,0 +1,16 @@
+Utilisation:
+
+Modifier le fichier config.php pour y ajouter les informations de connexion à la base de données.
+Copier le contenu du fichier EditeurSmiley.sql et le coller dans PhpMyAdmin pour créer la base de données.
+Deplacer le dossier du projet dans le répertoire vous permetant d'utiliser le serveur web.
+Ouvrir un navigateur et aller sur localhost puis vers le répertoire contenant nos codes. 
+Si vous n'avez pas encore de compte sur notre site web, vous pouvez en créer un ou vous connecter si vous en avez un. Vous pouvez tout de même accéder à la plupart de nos fonctionnalités sans connexion. 
+
+Vous retrouverez plusieurs fonctionnalités dans le site:
+L'accueil : vous pourrez créer un smiley de la taille que vous voulez (de taille minimale 2x2 et de taille maximale 20x20).
+    -Si vous n'avez pas de compte, vous ne pourrez pas l'enregistrer et vous ne disposerez que d'une palette par défaut.
+    -Si vous avez un compte, vous pouvez l'enregistrer pour l'éditer par la suite et avoir votre propre palette de couleurs. 
+    -Dans les deux cas, vous pouvez le telecharger en png (petit, grand ou moyen). 
+-Mon compte: Si vous avez un compte, vous y retrouverez votre plalette (qui peut etre modifiée) et vos smileys enregistrés (qui peuvent etre dupliqués ou supprimés). 
+-Connexion/Inscription/Déconnexion: vous pouvez vous connectez, vous déconnecter et creer un compte. 
+-A propos: On vous en dit plus sur nous, notamment sur nos services, sur notre équipe et la façon de nous contacter.
